@@ -14,12 +14,12 @@ The features used in this study included:
 - Sleep information  
 - Light exposure patterns
 
-Details regarding the preprocessing of these features can be found in the files within the `preprocessing` directory. Feature selection was performed using chi-square tests and t-tests, in collaboration with clinical experts. The final set of variables used for analysis is documented in the `preprocessing/preprocessing_file_merge.ipynb` notebook.
+Details regarding the preprocessing of these features can be found in the files within the `preprocessing` directory. Feature selection was performed using chi-square tests and t-tests, in collaboration with clinical experts. The final set of variables used for analysis is documented in the [`preprocessing/preprocessing_file_merge.ipynb`](https://github.com/MinsuChae/MDCRC_Early_Prediction_of_Depressive_Episodes_Seven_Days_BK/blob/main/preprocessing/preprcessing_file_merge.ipynb) notebook.
 
 ## Model Training and Interpretation
 
-This study employed Recurrent Neural Network (RNN)-based models. The training process for the best-performing model, as reported in the paper, is provided in the `LSTM_train.ipynb` notebook.  
-Model interpretation and feature importance analysis were conducted using SHAP, with the relevant procedures documented in `LSTM_SHAP.ipynb`.
+This study employed Recurrent Neural Network (RNN)-based models. The training process for the best-performing model, as reported in the paper, is provided in the [`LSTM_train.ipynb`]https://github.com/MinsuChae/MDCRC_Early_Prediction_of_Depressive_Episodes_Seven_Days_BK/blob/main/LSTM_train.ipynb() notebook.  
+Model interpretation and feature importance analysis were conducted using SHAP, with the relevant procedures documented in [`LSTM_SHAP.ipynb`](https://github.com/MinsuChae/MDCRC_Early_Prediction_of_Depressive_Episodes_Seven_Days_BK/blob/main/LSTM_SHAP.ipynb).
 
 ## Data Availability
 
