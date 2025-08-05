@@ -2,7 +2,7 @@
 
 ## Study Overview
 
-We conducted a study in South Korea involving patients diagnosed with depression as well as those with mania or hypomania. Diagnoses were made by licensed clinicians in accordance with the criteria outlined in the *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)*. The study was approved by the Institutional Review Board (IRB) of "[ClinicalTrials.gov: NCT03088657](https://clinicaltrials.gov/study/NCT03088657)".
+We conducted a study in South Korea involving patients diagnosed with Major Depressive Disorder (MDD), mania, or hypomania, as defined by the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). Diagnoses were made by licensed clinicians in accordance with the criteria outlined in the *DSM-5*. This analysis used the MDCRC cohort; registered at [ClinicalTrials.gov (NCT03088657)](https://clinicaltrials.gov/study/NCT03088657).
 
 ## Data Collection and Features
 
